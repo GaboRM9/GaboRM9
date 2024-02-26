@@ -2,6 +2,8 @@
 - 🌱 I’m currently implementing AI/ML.
 - 📫 www.linkedin.com/in/gabrielrm101010 - gabo9rm@gmail.com
 - ⚡ Fun fact: I like dogs, tech, music and my family
+
+  yeah I used the template.
 <!---
 GaboRM9/GaboRM9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
