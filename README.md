@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabo
+# gabo
 
 **Full-stack developer · AI & automation · SaaS**
 
