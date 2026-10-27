@@ -43,7 +43,7 @@ Portfolio with demos: **[gaborm9.github.io](https://gaborm9.github.io)**
 
 ## Currently
 
-- Building [**orbz**](https://github.com/GaboRM9/orbz): approval-gated tool calls, MCP, run history, CI
+- Building [**orb**](https://github.com/GaboRM9/orb): approval-gated tool calls, MCP, run history, CI
 - Experimenting with generative art from audio (**onkei**)
 - Writing MCP servers for internal IT automation
 
