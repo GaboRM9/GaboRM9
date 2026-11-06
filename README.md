@@ -19,7 +19,7 @@ I build products where an LLM does real work: agents that call tools, browse the
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**fl0u**](https://github.com/GaboRM9/fl0u) | Platform to build and run AI agents: LLM config, visual flow editor, RAG knowledge, webhooks | Vue 3, Express, Prisma + pgvector, pnpm monorepo |
+| [**orb**](https://github.com/GaboRM9/orb) | Agent workspace: approval-gated tool calls, MCP servers, run history | Next.js, Vercel AI SDK, MCP |
 | [**OpenFuture**](https://github.com/GaboRM9/OpenFuture) · [live](https://openfuture.wtf/app) | Feeds a topic to an agent that browses the web and returns a probabilistic forecast | TypeScript, Claude |
 | [**hyp3rT4rget**](https://github.com/GaboRM9/hyp3rT4rget) | Marketing audience builder from a product URL, with JWT, multi-tenancy and Stripe plans | React, Express, Gemini |
 | [**gab0-agentic-skills**](https://github.com/GaboRM9/gab0-agentic-skills) | Claude Code slash commands I use daily | Markdown skills |
